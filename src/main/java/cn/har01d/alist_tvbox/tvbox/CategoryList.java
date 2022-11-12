@@ -9,4 +9,8 @@ import java.util.List;
 public class CategoryList {
     @JsonProperty("class")
     private final List<Category> list;
+
+    public int getTotal() {
+        return list.size();
+    }
 }

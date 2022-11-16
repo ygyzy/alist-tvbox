@@ -5,7 +5,7 @@
 
 
 #建立文件目录进入目录
-  mkdir -p /root/sd/pywork/ && cd /root/sd/pywork/
+  mkdir -p /root/alist-tvbox/ && cd /root/alist-tvbox/
 
 
 
